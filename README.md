@@ -30,3 +30,11 @@
 <div align="center">
 <a href="https://discord.gg/Hz53snxVkG"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdiscord.gg%2FQwXXNGNkeh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Join+my+discord+server&edge_flat=false"/></a>
 </div>
+
+<!--![TershiXia's github stats](https://github-readme-stats.vercel.app/api?username=yywbadm&show_icons=true&theme=radical&hide_border=true)-->
+![yywbadm's Github Card](https://github-profile-trophy.vercel.app/?username=yywbadm&theme=darkhub&no-frame=true&row=1&column=7)
+![yywbadm's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yywbadm&theme=dracula)
+![yywbadm's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yywbadm&theme=dracula)
+![yywbadm's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yywbadm&theme=dracula)
+![yywbadm's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yywbadm&theme=dracula)
+![yywbadm's Github Status](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yywbadm&theme=dracula)<br>
