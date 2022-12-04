@@ -4,7 +4,7 @@
 
 <div align="center">
 	<a href="https://discord.com/users/8849563829213593612" >  
-  		<img src="https://lanyard.cnrad.dev/api/849563829213593612"  />  
+  		<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/yyw#9261)](https://discord.com/users/yyw#9261)"  />  
 	</a>  
 </div>
 &nbsp;
