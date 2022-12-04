@@ -4,11 +4,17 @@
 
 <div align="center">
 	<a href="https://discord.com/users/8849563829213593612" >  
-  		<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/yyw#9261)](https://discord.com/users/yyw#9261)"  />  
+  		<img src="https://lanyard.cnrad.dev/api/8849563829213593612"  />  
 	</a>  
 </div>
 &nbsp;
 
+<div align="center">
+	<a href="https://discord.com/users/847772018928779285" >  
+  		<img src="https://lanyard.cnrad.dev/api/847772018928779285"  />  
+	</a>  
+</div>
+&nbsp;
 
 
 <div align="center">
