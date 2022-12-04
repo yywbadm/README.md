@@ -10,14 +10,6 @@
 &nbsp;
 
 <div align="center">
-	<a href="https://discord.com/users/847772018928779285" >  
-  		<img src="https://lanyard.cnrad.dev/api/847772018928779285"  />  
-	</a>  
-</div>
-&nbsp;
-
-
-<div align="center">
 	<a href="[https://discord.gg/Hz53snxVkG](https://discord.gg/Hz53snxVkG)" >  
   		<img src="https://github-readme-stats.vercel.app/api?username=yywbadm&show_icons=true&theme=radical" />  
 	</a>
